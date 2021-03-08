@@ -15,3 +15,7 @@
 
 ***Issue report***
 Please make an issue report on GitHub. I will not take any issue requests on anything other than GitHub.
+Format: 
+- What did you do?
+- What happened?
+- What was the expected result?
