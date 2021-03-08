@@ -1,5 +1,7 @@
 #***Danh sách mã QR và giáo viên tương ứng***
+
 #Link album mã QR: https://photos.app.goo.gl/vBUY843U7dAgL2FX6
+
 #Format: màu | giáo viên tương ứng
 *Hồng đậm: cô Hồng*
 *Hồng nhạt: cô Xuyến*
